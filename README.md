@@ -47,12 +47,6 @@
 
 ---
 
-## 📊 Статистика
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=Backend-Gregory&show_icons=true&theme=tokyonight)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Backend-Gregory&layout=compact&theme=tokyonight)
-
----
 
 ## 🎯 Цели
 
