@@ -34,7 +34,7 @@
 |---|--------|------|--------|
 | 1 | [**Система аутентификации**](https://github.com/Backend-Gregory/python-mini-projects/tree/main/01_auth_system) | bool, NoneType, time, блокировки | ✅ Готово |
 | 2 | [**Личный дневник**](https://github.com/Backend-Gregory/python-mini-projects/tree/main/15_file_diary) | файлы, datetime, обработка ошибок | ✅ Готово |
-| 3 | **Крестики-нолики** | матрицы, проверка победы | 🟡 В процессе |
+| 3 | [**Крестики-нолики**](https://github.com/Backend-Gregory/python-mini-projects/tree/main/02_tic_tac_toe) | матрицы, проверка победы | ✅ Готово |
 
 👉 [**Все мини-проекты**](https://github.com/Backend-Gregory/python-mini-projects)
 
