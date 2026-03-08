@@ -33,8 +33,12 @@
 | № | Проект | Тема | Статус |
 |---|--------|------|--------|
 | 1 | [**Система аутентификации**](https://github.com/Backend-Gregory/python-mini-projects/tree/main/01_auth_system) | bool, NoneType, time, блокировки | ✅ Готово |
-| 2 | [**Личный дневник**](https://github.com/Backend-Gregory/python-mini-projects/tree/main/15_file_diary) | файлы, datetime, обработка ошибок | ✅ Готово |
-| 3 | [**Крестики-нолики**](https://github.com/Backend-Gregory/python-mini-projects/tree/main/02_tic_tac_toe) | матрицы, проверка победы | ✅ Готово |
+| 2 | [**Крестики-нолики**](https://github.com/Backend-Gregory/python-mini-projects/tree/main/02_tic_tac_toe) | матрицы, проверка победы | ✅ Готово |
+| 4 | [**База данных "Книги"**](https://github.com/Backend-Gregory/python-mini-projects/tree/main/04_books_db) | кортежи, файлы | ✅ Готово |
+| 5 | [**Система "Оценки студентов"**](https://github.com/Backend-Gregory/python-mini-projects/tree/main/05_student_grades) | словари, JSON | ✅ Готово |
+| 6 | [**Анализ текста**](https://github.com/Backend-Gregory/python-mini-projects/tree/main/06_text_analyzer) | множества | ✅ Готово |
+| 8 | [**Телефонный справочник**](https://github.com/Backend-Gregory/python-mini-projects/tree/main/08_phonebook) | словари, CRUD, JSON | ✅ Готово |
+| 15 | [**Личный дневник**](https://github.com/Backend-Gregory/python-mini-projects/tree/main/15_file_diary) | файлы, datetime | ✅ Готово |
 
 👉 [**Все мини-проекты**](https://github.com/Backend-Gregory/python-mini-projects)
 
@@ -47,13 +51,12 @@
 
 ---
 
-
 ## 🎯 Цели
 
 - [x] Выучить Python (продвинутый уровень)
 - [ ] Изучить SQL и базы данных
 - [ ] Изучить FastAPI
-- [ ] Написать 15 мини-проектов
+- [x] Написать 15 мини-проектов
 - [ ] Сделать 2 больших проекта
 
 ---
